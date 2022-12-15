@@ -1,0 +1,2 @@
+how the Git Revert command works.
+git revert simply creates a new commit that is the opposite of an existing commit. 
